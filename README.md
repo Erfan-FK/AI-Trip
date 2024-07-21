@@ -24,7 +24,7 @@ The Trip Planner AI web app helps users create and plan vacations and trips usin
 - **Authentication**: Google Auth
 - **Database**: Firestore
 - **AI Model**: Google Gemini
-- **Hosting**: Google Firebase App Hosting
+- **Hosting**: Vercel
 - **APIs**: Google Maps, Google Geocoding, Google Places, Google Images
 
 ## Features
