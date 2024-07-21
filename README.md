@@ -1,4 +1,6 @@
 # AI Trip Planner Web App
+## Live Demo
+[![Open in Browser](https://img.shields.io/badge/Open%20Webpage-Visit%20Site-brightgreen?logo=google-chrome&logoColor=white)](https://ai-trip-efk.vercel.app/)
 
 ![App Screenshot](public/homepage.png)
 
