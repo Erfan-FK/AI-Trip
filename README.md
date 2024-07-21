@@ -13,7 +13,13 @@
 The Trip Planner AI web app helps users create and plan vacations and trips using AI . It simplifies the process of organizing trips based on user preferences and provides personalized recommendations.
 
 ## Technologies Used
-- **Frontend**: React, TailwindCSS, Shadcn, JavaScript
+![Vite](https://img.shields.io/badge/Vite-5.3.4-blue)
+![React](https://img.shields.io/badge/React-18.3.1-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.6-blue)
+![ESLint](https://img.shields.io/badge/ESLint-8.57.0-blue)
+![Firebase](https://img.shields.io/badge/Firebase-10.12.4-blue)
+![Axios](https://img.shields.io/badge/Axios-1.7.2-blue)
+- **Frontend**: React, TailwindCSS, Shadcn, JavaScript 
 - **Framework**: Vite
 - **Authentication**: Google Auth
 - **Database**: Firestore
